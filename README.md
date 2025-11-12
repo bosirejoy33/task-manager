@@ -20,7 +20,7 @@ Modular, object-oriented architecture using ES Modules
 ---
 
 modular-task-manager/
-|--public/
+|
 │
 ├── index.html # Main HTML interface
 ├── styles.css # Application styling
@@ -36,5 +36,5 @@ github repo link : https://github.com/bosirejoy33/task-manager.git
 
 \ docker tags https://hub.docker.com/r/bosirejoy33/task-manager/tags
 
-\ live site : https://bosirejoy33.github.io/firstyear-comp/
+\ live site : https://bosirejoy33.github.io/task-manager/
 
